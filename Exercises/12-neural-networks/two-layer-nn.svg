@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="177px" viewBox="0 0 181 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>A4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="A4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="x" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+            <tspan x="6" y="129">x</tspan>
+        </text>
+        <text id="2" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="15" y="132">2</tspan>
+        </text>
+        <text id="x" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+            <tspan x="6" y="73">x</tspan>
+        </text>
+        <text id="1" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="15" y="76">1</tspan>
+        </text>
+        <text id="w" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#0500FF">
+            <tspan x="115" y="164">w</tspan>
+        </text>
+        <text id="2" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#0500FF">
+            <tspan x="128" y="168">2</tspan>
+        </text>
+        <text id="(2)" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="8" font-weight="normal" fill="#0500FF">
+            <tspan x="126" y="157">(2)</tspan>
+        </text>
+        <text id="w" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#0500FF">
+            <tspan x="110" y="136">w</tspan>
+        </text>
+        <text id="1" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#0500FF">
+            <tspan x="123" y="140">1</tspan>
+        </text>
+        <text id="(2)" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="8" font-weight="normal" fill="#0500FF">
+            <tspan x="121" y="129">(2)</tspan>
+        </text>
+        <text id="w" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#0500FF">
+            <tspan x="37" y="166">w</tspan>
+        </text>
+        <text id="2,2" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#0500FF">
+            <tspan x="50" y="170">2,2</tspan>
+        </text>
+        <text id="(1)" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="8" font-weight="normal" fill="#0500FF">
+            <tspan x="48" y="159">(1)</tspan>
+        </text>
+        <text id="b" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#5A5A5A">
+            <tspan x="44" y="53">b</tspan>
+        </text>
+        <text id="0" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#5A5A5A">
+            <tspan x="53" y="57">0</tspan>
+        </text>
+        <text id="(1)" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="8" font-weight="normal" fill="#5A5A5A">
+            <tspan x="51" y="46">(1)</tspan>
+        </text>
+        <text id="1" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="16" font-weight="normal" fill="#5A5A5A">
+            <tspan x="7" y="22">1</tspan>
+        </text>
+        <text id="z" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+            <tspan x="81" y="128">z</tspan>
+        </text>
+        <text id="2" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="90" y="131">2</tspan>
+        </text>
+        <text id="z" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+            <tspan x="81" y="72">z</tspan>
+        </text>
+        <text id="1" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="90" y="75">1</tspan>
+        </text>
+        <text id="1" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="16" font-weight="normal" fill="#5A5A5A">
+            <tspan x="82" y="22">1</tspan>
+        </text>
+        <text id="y" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#000000">
+            <tspan x="159" y="129">y</tspan>
+        </text>
+        <line x1="17.5" y1="90.5" x2="90.25" y2="90.75" id="Line" stroke="#0500FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="18" y1="90" x2="90.25" y2="145.75" id="Line" stroke="#0500FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="16.625" y1="35.625" x2="90" y2="146" id="Line" stroke="#5A5A5A" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="16.625" y1="35.625" x2="90" y2="91" id="Line" stroke="#5A5A5A" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="17" y1="146" x2="90" y2="91" id="Line" stroke="#0500FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="90" y1="91" x2="163" y2="146" id="Line" stroke="#0500FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="90" y1="36" x2="163" y2="146" id="Line" stroke="#5A5A5A" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="17" y1="146" x2="90" y2="146" id="Line" stroke="#0500FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <line x1="90" y1="146" x2="163" y2="146" id="Line" stroke="#0500FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="square"></line>
+        <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="17" cy="146" r="8.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="90" cy="146" r="8.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="90" cy="90" r="8.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="163" cy="146" r="8.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="17" cy="90" r="8.5"></circle>
+        <circle id="Oval" stroke="#5A5A5A" stroke-width="3" fill="#5A5A5A" cx="17" cy="36" r="8.5"></circle>
+        <circle id="Oval" stroke="#5A5A5A" stroke-width="3" fill="#5A5A5A" cx="90" cy="36" r="8.5"></circle>
+        <text id="b" font-family="LMRoman10-Italic, Latin Modern Roman" font-size="16" font-style="italic" font-weight="normal" fill="#5A5A5A">
+            <tspan x="123" y="79">b</tspan>
+        </text>
+        <text id="0" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="10" font-weight="normal" fill="#5A5A5A">
+            <tspan x="132" y="83">0</tspan>
+        </text>
+        <text id="(2)" font-family="LMRoman10-Regular, Latin Modern Roman" font-size="8" font-weight="normal" fill="#5A5A5A">
+            <tspan x="130" y="72">(2)</tspan>
+        </text>
+    </g>
+</svg>
